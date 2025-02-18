@@ -24,3 +24,4 @@ go.work.sum
 # env file
 .env
 server/cotacoes.db
+client/cotacao.txt
